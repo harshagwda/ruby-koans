@@ -300,14 +300,14 @@ module Neo
       ruby_version = "(in #{'J' if defined?(JRUBY_VERSION)}Ruby #{defined?(JRUBY_VERSION) ? JRUBY_VERSION : RUBY_VERSION})"
       ruby_version = ruby_version.side_padding(54)
         completed = <<-ENDTEXT
-                                  ,,   ,  ,,
-                                :      ::::,    :::,
-                   ,        ,,: :::::::::::::,,  ::::   :  ,
-                 ,       ,,,   ,:::::::::::::::::::,  ,:  ,: ,,
-            :,        ::,  , , :, ,::::::::::::::::::, :::  ,::::
-           :   :    ::,                          ,:::::::: ::, ,::::
-          ,     ,:::::                                  :,:::::::,::::,
-      ,:     , ,:,,:                                       :::::::::::::
+                                  ha   h  ah
+                                h      ahaha    haha
+                   h        aha hahahahahahahah  ahah   a  h
+                 h       aha   hahahahahahahahahahah  ah  ah ah
+            ah        aha  h a ha hahahahahahahahahaha hah  ahaha
+           h   a    hah                          ahahahaha hah ahaha
+          h     ahahah                                  ahahahahahahaha
+      ha     h ahaha                                       hahahahahaha
      ::,:   ,,:::,                                           ,::::::::::::,
     ,:::, :,,:::                                               ::::::::::::,
    ,::: :::::::,       Mountains are again merely mountains     ,::::::::::::
